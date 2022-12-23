@@ -2,9 +2,9 @@
 This repository contains the synthetic instances and results for the Critical Node Game (Dragotto, Boukhtouta and Lodi, 2022).
 
 ## Results
-There are two files:
-- *results_realworld.csv* contains the results for the real-world instances based on network dumps
-- *results_syn.csv* contains the results for the synthetic instances
+The folder *results* contains the result files:
+- *something_full.csv* contains the full results for something = real or syn
+- *something_aggregate.csv* contains the aggregate results for something = real or syn
 
 
 ## Instances
